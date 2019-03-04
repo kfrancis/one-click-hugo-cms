@@ -1,0 +1,9 @@
+[submodule "themes/launch"]
+	path = themes/launch
+	url = https://github.com/felicianotech/hugo-theme-lean-launch-page.git
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "themes/hugo-theme-lean-launch-page"]
+	path = themes/hugo-theme-lean-launch-page
+	url = https://github.com/felicianotech/hugo-theme-lean-launch-page.git

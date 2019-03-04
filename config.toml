@@ -1,0 +1,14 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+author = "Clinical Support Systems"
+canonifyurls = true
+paginate = 3
+title = "mend.md"
+theme = "hugo-theme-lean-launch-page"
+
+[params]
+tagline = "We're launching a new, better solution for patient management."
+mailchimpURL = "https://clinicalsupportsystems.us3.list-manage.com/subscribe/post?u=552215368181abac51dac16ae&amp;id=1404dbe7b4"
+
+twitter = "https://twitter.com/cssupport"
+facebook = "https://facebook.com/ClinicalSupportSystems"
